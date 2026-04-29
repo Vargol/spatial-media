@@ -64,6 +64,7 @@ TAG_IN32 = "in32"
 TAG_ULAW = "ulaw"
 TAG_ALAW = "alaw"
 TAG_LPCM = "lpcm"
+TAG_IPCM = "ipcm"
 TAG_MP4A = "mp4a"
 
 VIDEO_SAMPLE_DESCRIPTIONS = frozenset([
@@ -86,6 +87,7 @@ SOUND_SAMPLE_DESCRIPTIONS = frozenset([
     TAG_ULAW,
     TAG_ALAW,
     TAG_LPCM,
+    TAG_IPCM,
     TAG_MP4A,
     ])
 
